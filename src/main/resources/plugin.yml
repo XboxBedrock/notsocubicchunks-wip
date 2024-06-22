@@ -1,0 +1,4 @@
+name: NotSoCubicChunks
+version: '${project.version}'
+main: com.xboxbedrock.minecraft.notsocubicchunks.NotSoCubicChunks
+api-version: '1.21'
